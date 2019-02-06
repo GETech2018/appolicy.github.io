@@ -787,5 +787,461 @@
         }
       ]
     }
+	  {
+      "identifier": "couple_story",
+      "name": "Couple Story",
+      "publisher": "Droid Labs",
+      "tray_image_file": "tray.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        },
+        {
+          "image_file": "29.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "30.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        }
+      ]
+    },
+	{
+      "identifier": "Love_Couple",
+      "name": "Couple Goal 2",
+      "publisher": "Droid Labs",
+      "tray_image_file": "tray.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_Cuppy_smile.webp"
+        },
+        {
+          "image_file": "02_Cuppy_lol.webp"
+        },
+        {
+          "image_file": "03_Cuppy_rofl.webp"
+        },
+        {
+          "image_file": "04_Cuppy_sad.webp"
+        },
+        {
+          "image_file": "05_Cuppy_cry.webp"
+        },
+        {
+          "image_file": "06_Cuppy_love.webp"
+        },
+        {
+          "image_file": "07_Cuppy_hate.webp"
+        },
+        {
+          "image_file": "08_Cuppy_lovewithmug.webp"
+        },
+        {
+          "image_file": "09_Cuppy_lovewithcookie.webp"
+        },
+        {
+          "image_file": "10_Cuppy_hmm.webp"
+        },
+        {
+          "image_file": "11_Cuppy_upset.webp"
+        },
+        {
+          "image_file": "12_Cuppy_angry.webp"
+        },
+        {
+          "image_file": "13_Cuppy_curious.webp"
+        },
+        {
+          "image_file": "14_Cuppy_weird.webp"
+        },
+        {
+          "image_file": "15_Cuppy_bluescreen.webp"
+        },
+        {
+          "image_file": "16_Cuppy_angry.webp"
+        },
+        {
+          "image_file": "17_Cuppy_tired.webp"
+        },
+        {
+          "image_file": "18_Cuppy_workhard.webp"
+        },
+        {
+          "image_file": "19_Cuppy_shine.webp"
+        },
+        {
+          "image_file": "20_Cuppy_disgusting.webp"
+        },
+        {
+          "image_file": "21_Cuppy_hi.webp"
+        },
+        {
+          "image_file": "22_Cuppy_bye.webp"
+        },
+        {
+          "image_file": "23_Cuppy_greentea.webp"
+        },
+        {
+          "image_file": "24_Cuppy_phone.webp"
+        },
+        {
+          "image_file": "25_Cuppy_battery.webp"
+        }
+      ]
+    },
+	{
+      "identifier": "Love_Me",
+      "name": "Couple Goal 3",
+      "publisher": "Droid Labs",
+      "tray_image_file": "tray.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "s2_1.webp"
+        },
+        {
+          "image_file": "s2_10.webp"
+        },
+        {
+          "image_file": "s2_11.webp"
+        },
+        {
+          "image_file": "s2_12.webp"
+        },
+        {
+          "image_file": "s2_13.webp"
+        },
+        {
+          "image_file": "s2_14.webp"
+        },
+        {
+          "image_file": "s2_16.webp"
+        },
+        {
+          "image_file": "s2_17.webp"
+        },
+        {
+          "image_file": "s2_18.webp"
+        },
+        {
+          "image_file": "s2_19.webp"
+        },
+        {
+          "image_file": "s2_2.webp"
+        },
+        {
+          "image_file": "s2_20.webp"
+        },
+        {
+          "image_file": "s2_21.webp"
+        },
+        {
+          "image_file": "s2_3.webp"
+        },
+        {
+          "image_file": "s2_4.webp"
+        },
+        {
+          "image_file": "s2_5.webp"
+        },
+        {
+          "image_file": "s2_6.webp"
+        },
+        {
+          "image_file": "s2_7.webp"
+        },
+        {
+          "image_file": "s2_8.webp"
+        },
+        {
+          "image_file": "s2_9.webp"
+        }
+      ]
+    },
+	{
+      "identifier": "romantic_couple",
+      "name": "Romantic Couple",
+      "publisher": "Droid Labs",
+      "tray_image_file": "tray.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "10_romantic_couple.webp"
+        },
+        {
+          "image_file": "13_romantic_couple.webp"
+        },
+        {
+          "image_file": "15_romantic_couple.webp"
+        },
+        {
+          "image_file": "16_romantic_couple.webp"
+        },
+        {
+          "image_file": "17_romantic_couple.webp"
+        },
+        {
+          "image_file": "18_romantic_couple.webp"
+        },
+        {
+          "image_file": "19_romantic_couple.webp"
+        },
+        {
+          "image_file": "1_romantic_couple.webp"
+        },
+        {
+          "image_file": "20_romantic_couple.webp"
+        },
+        {
+          "image_file": "21_romantic_couple.webp"
+        },
+        {
+          "image_file": "22_romantic_couple.webp"
+        },
+        {
+          "image_file": "23_romantic_couple.webp"
+        },
+        {
+          "image_file": "24_romantic_couple.webp"
+        },
+        {
+          "image_file": "25_romantic_couple.webp"
+        },
+        {
+          "image_file": "26_romantic_couple.webp"
+        },
+        {
+          "image_file": "27_romantic_couple.webp"
+        },
+        {
+          "image_file": "29_romantic_couple.webp"
+        },
+        {
+          "image_file": "2_romantic_couple.webp"
+        },
+        {
+          "image_file": "30_romantic_couple.webp"
+        },
+        {
+          "image_file": "3_romantic_couple.webp"
+        },
+        {
+          "image_file": "4_romantic_couple.webp"
+        },
+        {
+          "image_file": "5_romantic_couple.webp"
+        },
+        {
+          "image_file": "6_romantic_couple.webp"
+        },
+        {
+          "image_file": "7_romantic_couple.webp"
+        },
+        {
+          "image_file": "8_romantic_couple.webp"
+        },
+        {
+          "image_file": "9_romantic_couple.webp"
+        },
+        {
+          "image_file": "romantic_couple.webp"
+        }
+      ]
+    },
+	{
+      "identifier": "the_lovers",
+      "name": "Special Collection",
+      "publisher": "Droid Labs",
+      "tray_image_file": "tray.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        },
+        {
+          "image_file": "29.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "30.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        }
+      ]
+    }
 	]
 }
