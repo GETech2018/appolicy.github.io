@@ -7,7 +7,7 @@
 		"Customer Care",
 		"Check your number",
 		"Check own number",
-		"Balance &amp;Validity of Current Plans",
+		"Balance & Validity of Plans",
 		"Data offers",
 		"Deactivate VAS"],
 		"value": ["*123#",
@@ -67,7 +67,7 @@
 	"Helpline"],
 	"value": ["198",
 	"199",
-	"18008899999 (From non-jio numbers)(toll free)"],
+	"18008899999 (toll free)"],
 	"st": ["1",
 	"OK"]
 	},
